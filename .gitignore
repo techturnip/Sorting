@@ -195,4 +195,8 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# .history folder
+.history
 # End of https://www.gitignore.io/api/windows,macos,linux,python
+src/iterative_sorting/__pycache__/iterative_sorting.cpython-37.pyc
+src/iterative_sorting/__pycache__/iterative_sorting.cpython-37.pyc
